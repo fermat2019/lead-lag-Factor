@@ -1,1 +1,1 @@
-# effective-lamp
+# lead-lag Factor
