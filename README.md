@@ -11,4 +11,5 @@ $$
 
 ## 因子处理
 数据来源于国泰安，对于t期的因子，考虑之前8个季度经营性现金流量净额增长率与中国GDP增长率（未除去通胀）的根据相关系数加权的领先期数，在12个季度的跨度下，对于个股在横截面层面分别考虑分组计算spread和回归的方法，t检验均不显著。
+
 参考文献：Croce M M, Marchuk T, Schlag C. The leading premium[J]. The Review of Financial Studies, 2023, 36(8): 2997-3033.
